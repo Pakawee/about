@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pakawees.github.io/sitemap.xml
+Sitemap: https://pakawee.github.io/sitemap.xml
